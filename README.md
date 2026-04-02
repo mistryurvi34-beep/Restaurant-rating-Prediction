@@ -1,4 +1,15 @@
 # Restaurant-rating-Prediction
+Task 1 :Restaurant-rating-Prediction
+
+company: Cognifyz
+
+Name: Mistry Urvi Rakeshkumar
+
+Domain: Machine learning 
+
+Tools & Technology:-python programming language -Google Colab
+
+Intern ID : CTI/A1/C322881
 
 # 🍽️ Task 1: Restaurant Rating Prediction
 
