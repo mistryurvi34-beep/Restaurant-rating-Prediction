@@ -1,0 +1,4 @@
+Model:Linear Regression
+Mean Squared Error : 0.05
+R2 Score :0.97
+Status : Model trained Successfully
